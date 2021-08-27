@@ -12,7 +12,7 @@ appreciated<hr></h3>
 
 - 🌱 I’m currently learning Data Structures and Algorithms in python.
 
-- 👯 I’m looking to collaborate on internship and job
+- 👯 I’m looking for internship and job
 
 - 👨‍💻 All of my projects are available at **[github](https://github.com/pawan-suthar)**
 
